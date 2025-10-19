@@ -248,10 +248,10 @@ Category-Specific Details
 
 You can clone this repo and run the backend locally:
 
-git clone https://github.com/yourusername/RealEstateProject.git
-cd RealEstateProject
-mvn clean install
-mvn spring-boot:run
+1. git clone https://github.com/yourusername/RealEstateProject.git
+2. cd RealEstateProject
+3. mvn clean install
+4. mvn spring-boot:run
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -259,6 +259,7 @@ mvn spring-boot:run
 
 🎯 Conclusion
 This backend is production-ready, fully supports nested property details, amenities, images, and agent information. It is modular and extensible for future frontend integration.
+
 
 
 
